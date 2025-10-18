@@ -44,7 +44,7 @@ projeto_logistica/
 │
 ├── requirements.txt                          # Dependências do projeto
 └── README.md                                 # Este arquivo
-
+```
 ---
 
 ##  Tecnologias Utilizadas
