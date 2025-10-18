@@ -61,7 +61,7 @@ projeto_logistica/
 ##  Pipeline de Dados
 
 1. **Extração e Limpeza (ETL)**  
-   Executada no notebook [`Python_ETL.ipynb`](notebooks/www.ipynb).  
+   Executada no notebook [`python_etl.ipynb`](notebooks/python_etl.ipynb).  
    - Leitura das tabelas `fato_entregas`, `dim_clientes`, `dim_cidades`, `dim_transportadoras` e `dim_calendario`.  
    - Tratamento de nulos e criação de novas métricas.  
    - Geração dos datasets finais:
