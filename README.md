@@ -1,7 +1,5 @@
 #  Projeto Logística Inteligente — Análise e Previsão de Atrasos na Entrega
 
-![Dashboard Power BI](dashboards/dashboard_preview.png)
-
 ##  Visão Geral
 
 Este projeto tem como objetivo **analisar e prever atrasos em entregas logísticas**, combinando **ETL automatizado, visualização em Power BI e Machine Learning**.
