@@ -159,7 +159,7 @@ O painel apresenta:
 **Sidney Santos**  
  Data Science & BI | Machine Learning | Power BI  
  Rio de Janeiro, Brasil  
-[LinkedIn]([https://www.linkedin.com/in/sidneysantos](https://www.linkedin.com/in/sidney-santos-analista-de-dados/)) | [GitHub]([https://github.com/sidneysantos](https://github.com/sidneysantosdatascientist))
+[LinkedIn]([[https://www.linkedin.com/in/sidneysantos](https://www.linkedin.com/in/sidney-santos-analista-de-dados/](url))) | [GitHub]([[https://github.com/sidneysantos](https://github.com/sidneysantosdatascientist)](url))
 
 ---
 
