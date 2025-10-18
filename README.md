@@ -10,39 +10,40 @@ A solução abrange desde a **ingestão e tratamento de dados (ETL)** até a **c
 
 ---
 
-##  Estrutura do Projeto
+## 📁 Estrutura do Projeto
 
+```bash
 projeto_logistica/
 ├── data/
-│ ├── raw/ # Dados brutos
-│ ├── processed/ # Dados tratados
-│ └── curated/ # Datasets prontos para análise e ML
+│   ├── raw/                  # Dados brutos
+│   ├── processed/            # Dados tratados
+│   └── curated/              # Datasets prontos para análise e ML
 │
 ├── notebooks/
-│ ├── Python_ETL.ipynb # Pipeline de ETL e limpeza
-│ └── predict_delivery_delay_colab.ipynb # Treinamento e avaliação ML
+│   ├── Python_ETL.ipynb                      # Pipeline de ETL e limpeza
+│   └── predict_delivery_delay_colab.ipynb    # Treinamento e avaliação ML
 │
 ├── ml-models/
-│ ├── rf_model.pkl # Modelo Random Forest treinado
-│ ├── scaler.pkl # Padronizador de dados
-│ ├── feature_names.pkl # Lista das variáveis usadas no modelo
-│ ├── feature_importances.csv # Importância das features
-│ ├── metricas_modelos.csv # Métricas de desempenho dos modelos
-│ ├── previsoes_melhor_modelo.csv # Predições do conjunto de teste
-│ └── shap_outputs/ # Gráficos de explicabilidade
+│   ├── rf_model.pkl                          # Modelo Random Forest treinado
+│   ├── scaler.pkl                            # Padronizador de dados
+│   ├── feature_names.pkl                     # Lista das variáveis usadas no modelo
+│   ├── feature_importances.csv               # Importância das features
+│   ├── metricas_modelos.csv                  # Métricas de desempenho dos modelos
+│   ├── previsoes_melhor_modelo.csv           # Predições do conjunto de teste
+│   └── shap_outputs/                         # Gráficos de explicabilidade
 │
 ├── dashboards/
-│ ├── logistica_dashboard.pbix # Dashboard completo no Power BI
-│ └── dashboard_preview.png # Print do dashboard
+│   ├── logistica_dashboard.pbix              # Dashboard completo no Power BI
+│   └── dashboard_preview.png                 # Print do dashboard
 │
 ├── sql/
-│ └── queries.sql # Scripts SQL usados no ETL
+│   └── queries.sql                           # Scripts SQL usados no ETL
 │
 ├── reports/
-│ └── relatorio_modelo.pdf # Relatório técnico do modelo
+│   └── relatorio_modelo.pdf                  # Relatório técnico do modelo
 │
-├── requirements.txt # Dependências do projeto
-└── README.md # Este arquivo
+├── requirements.txt                          # Dependências do projeto
+└── README.md                                 # Este arquivo
 
 ---
 
