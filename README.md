@@ -1,4 +1,4 @@
-#  Projeto Logística Inteligente — Análise e Previsão de Atrasos na Entrega
+#  Análise e Previsão de Atrasos na Entrega
 
 ##  Visão Geral
 
@@ -8,7 +8,7 @@ A solução abrange desde a **ingestão e tratamento de dados (ETL)** até a **c
 
 ---
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```bash
 projeto_logistica/
