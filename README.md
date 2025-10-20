@@ -123,7 +123,7 @@ dashboards/logistica_dashboard.pbix
 
 ![Preview do Dashboard](https://raw.githubusercontent.com/sidneysantosdatascientist/analise_de_vendas/main/powerbi/dashboard_preview.png)
 
-![Preview do Dashboard](dashboards/dashboard_preview.png)
+![Preview do Dashboard](C:\Users\byuzi\OneDrive\Documents\GitHub\analise_de_vendas\powerbi\dashboard_preview.png)
 
 O painel apresenta:
 - KPIs operacionais (tempo médio de entrega, taxa de atraso)  
