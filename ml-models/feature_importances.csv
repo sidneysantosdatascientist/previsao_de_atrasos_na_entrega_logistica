@@ -1,0 +1,45 @@
+feature,importance
+origin_city_Salvador,0.21703497
+delay_rate,0.10608868
+carrier_Transportadora A,0.0966087
+origin_city_Rio de Janeiro,0.078009285
+carrier_delay_rate,0.075622395
+origin_city_Cuiabá,0.07213111
+origin_city_São Paulo,0.06691927
+origin_city_Curitiba,0.038187418
+destination_city_Belo Horizonte,0.037283354
+origin_city_Belo Horizonte,0.035277423
+destination_city_Campinas,0.0321274
+destination_city_Rio de Janeiro,0.024995178
+destination_city_Maceió,0.023120612
+monthly_spend_avg,0.022876715
+carrier_Transportadora B,0.02038018
+avg_delivery_rating,0.016902585
+weight_kg,0.016261397
+avg_delay_hours,0.015825773
+carrier_Transportadora C,0.004347566
+origin_city_Belém,0.0
+origin_city_Goiânia,0.0
+origin_city_Fortaleza,0.0
+origin_city_Florianópolis,0.0
+origin_city_Campinas,0.0
+origin_city_Recife,0.0
+origin_city_Natal,0.0
+origin_city_Porto Alegre,0.0
+origin_city_Maceió,0.0
+destination_city_Fortaleza,0.0
+destination_city_Florianópolis,0.0
+destination_city_Curitiba,0.0
+destination_city_Cuiabá,0.0
+destination_city_Belém,0.0
+origin_city_Vitória,0.0
+origin_city_Manaus,0.0
+destination_city_Manaus,0.0
+destination_city_Salvador,0.0
+destination_city_Recife,0.0
+destination_city_Porto Alegre,0.0
+destination_city_Natal,0.0
+destination_city_Goiânia,0.0
+destination_city_Vitória,0.0
+destination_city_São Paulo,0.0
+cust_delay_rate,0.0

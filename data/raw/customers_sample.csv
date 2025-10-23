@@ -1,0 +1,21 @@
+customer_id,customer_name,customer_segment,registration_date,state,monthly_spend_avg,total_orders,avg_delivery_rating
+CUST001,Empresa A Ltda,Enterprise,2023-07-27,CE,16126.72,50,5.0
+CUST002,Empresa B Ltda,Enterprise,2023-11-08,CE,10317.41,42,4.8
+CUST003,Empresa C Ltda,Medium,2023-11-22,BA,7044.12,32,3.8
+CUST004,Empresa D Ltda,Medium,2023-04-11,CE,8660.84,39,3.7
+CUST005,Empresa E Ltda,Medium,2023-06-03,MG,8308.26,30,3.9
+CUST006,Empresa F Ltda,Enterprise,2023-11-06,PR,13580.57,54,4.6
+CUST007,Empresa G Ltda,Medium,2023-11-19,CE,9120.39,38,4.3
+CUST008,Empresa H Ltda,Enterprise,2023-06-12,CE,10050.73,55,4.6
+CUST009,Empresa I Ltda,Medium,2023-03-09,PR,8055.67,35,4.2
+CUST010,Empresa J Ltda,Enterprise,2023-09-17,BA,13234.09,40,4.3
+CUST011,Empresa K Ltda,Medium,2023-03-09,SP,8070.15,39,3.7
+CUST012,Empresa L Ltda,Enterprise,2023-04-20,PR,17860.39,47,4.6
+CUST013,Empresa M Ltda,Medium,2023-12-31,PR,5878.8,25,3.6
+CUST014,Empresa N Ltda,Small,2023-01-14,RS,4232.86,12,3.9
+CUST015,Empresa O Ltda,Medium,2023-11-04,MG,7351.0,40,3.9
+CUST016,Empresa P Ltda,Small,2023-05-14,PR,4400.84,13,3.3
+CUST017,Empresa Q Ltda,Medium,2023-05-21,BA,7813.81,37,3.6
+CUST018,Empresa R Ltda,Enterprise,2023-08-20,CE,16567.6,48,4.6
+CUST019,Empresa S Ltda,Enterprise,2023-01-20,PR,12491.29,56,4.7
+CUST020,Empresa T Ltda,Enterprise,2023-05-05,PR,18318.17,51,5.0

@@ -1,0 +1,101 @@
+delivery_id,customer_id,order_date,estimated_delivery,actual_delivery,origin_city,destination_city,weight_kg,carrier,status,delay_hours
+DEL001,CUST005,2024-02-15,2024-02-19,2024-02-20,Maceió,Rio de Janeiro,1.6,Transportadora C,Entregue,24
+DEL002,CUST011,2024-01-18,2024-01-22,2024-01-25,São Paulo,Campinas,6.6,Transportadora A,Entregue,72
+DEL003,CUST013,2024-02-12,2024-02-17,2024-02-17,Salvador,Florianópolis,6.7,Transportadora C,Entregue,0
+DEL004,CUST004,2024-01-30,2024-02-02,2024-02-02,Manaus,Curitiba,8.9,Transportadora A,Entregue,0
+DEL005,CUST008,2024-02-03,2024-02-05,2024-02-05,Recife,Belém,9.6,Transportadora B,Entregue,0
+DEL006,CUST012,2024-03-24,2024-03-26,2024-03-28,Recife,Vitória,4.8,Transportadora C,Entregue,48
+DEL007,CUST009,2024-03-16,2024-03-18,2024-03-18,Manaus,Natal,8.2,Transportadora A,Entregue,0
+DEL008,CUST010,2024-03-03,2024-03-07,2024-03-07,Campinas,Rio de Janeiro,9.6,Transportadora A,Entregue,0
+DEL009,CUST011,2024-03-25,2024-03-27,2024-03-27,Belo Horizonte,Belém,1.1,Transportadora B,Entregue,0
+DEL010,CUST011,2024-03-29,2024-04-03,2024-04-06,Curitiba,Salvador,3.9,Transportadora B,Entregue,72
+DEL011,CUST006,2024-02-02,2024-02-05,2024-02-07,Campinas,Porto Alegre,1.1,Transportadora C,Entregue,48
+DEL012,CUST018,2024-01-13,2024-01-16,2024-01-16,Goiânia,Natal,1.4,Transportadora A,Entregue,0
+DEL013,CUST011,2024-01-18,2024-01-23,2024-01-23,Manaus,Goiânia,5.6,Transportadora A,Entregue,0
+DEL014,CUST005,2024-02-08,2024-02-10,2024-02-11,São Paulo,Fortaleza,1.5,Transportadora A,Entregue,24
+DEL015,CUST017,2024-01-05,2024-01-10,2024-01-10,Fortaleza,Porto Alegre,8.7,Transportadora C,Entregue,0
+DEL016,CUST013,2024-03-28,2024-04-01,2024-04-01,Rio de Janeiro,Maceió,6.5,Transportadora C,Entregue,0
+DEL017,CUST011,2024-01-01,2024-01-04,2024-01-04,Vitória,Goiânia,1.1,Transportadora C,Entregue,0
+DEL018,CUST007,2024-02-15,2024-02-18,2024-02-18,Vitória,Belo Horizonte,2.5,Transportadora B,Entregue,0
+DEL019,CUST006,2024-02-16,2024-02-20,2024-02-21,Cuiabá,Curitiba,6.3,Transportadora C,Entregue,24
+DEL020,CUST006,2024-02-04,2024-02-08,2024-02-08,Belo Horizonte,Campinas,9.4,Transportadora C,Entregue,0
+DEL021,CUST010,2024-01-18,2024-01-22,2024-01-25,Porto Alegre,Maceió,1.8,Transportadora C,Entregue,72
+DEL022,CUST017,2024-01-09,2024-01-11,2024-01-14,Vitória,Belém,8.8,Transportadora C,Entregue,72
+DEL023,CUST018,2024-03-03,2024-03-05,2024-03-06,Natal,Campinas,8.7,Transportadora C,Entregue,24
+DEL024,CUST008,2024-03-16,2024-03-19,2024-03-20,Belo Horizonte,Curitiba,8.3,Transportadora B,Entregue,24
+DEL025,CUST001,2024-01-08,2024-01-10,2024-01-10,Vitória,Cuiabá,1.6,Transportadora A,Entregue,0
+DEL026,CUST019,2024-02-05,2024-02-07,2024-02-07,Florianópolis,Fortaleza,3.7,Transportadora B,Entregue,0
+DEL027,CUST009,2024-02-02,2024-02-04,2024-02-04,Recife,Goiânia,7.5,Transportadora A,Entregue,0
+DEL028,CUST006,2024-01-08,2024-01-13,2024-01-14,Rio de Janeiro,Maceió,9.9,Transportadora B,Entregue,24
+DEL029,CUST019,2024-01-14,2024-01-16,2024-01-16,São Paulo,Belo Horizonte,1.8,Transportadora A,Entregue,0
+DEL030,CUST007,2024-01-02,2024-01-07,2024-01-07,Cuiabá,Belo Horizonte,5.1,Transportadora C,Entregue,0
+DEL031,CUST019,2024-01-06,2024-01-11,2024-01-11,Maceió,Porto Alegre,7.6,Transportadora A,Entregue,0
+DEL032,CUST013,2024-03-18,2024-03-21,2024-03-21,Cuiabá,Manaus,3.8,Transportadora B,Entregue,0
+DEL033,CUST013,2024-02-03,2024-02-07,2024-02-07,Campinas,Manaus,8.6,Transportadora A,Entregue,0
+DEL034,CUST004,2024-03-04,2024-03-08,2024-03-08,Curitiba,Salvador,7.9,Transportadora B,Entregue,0
+DEL035,CUST005,2024-02-04,2024-02-09,2024-02-09,Goiânia,Cuiabá,3.2,Transportadora A,Entregue,0
+DEL036,CUST012,2024-01-16,2024-01-18,2024-01-18,Natal,Manaus,1.8,Transportadora A,Entregue,0
+DEL037,CUST001,2024-03-24,2024-03-27,2024-03-27,Campinas,Belém,5.2,Transportadora C,Entregue,0
+DEL038,CUST012,2024-01-13,2024-01-17,2024-01-18,Goiânia,Belém,5.2,Transportadora B,Entregue,24
+DEL039,CUST020,2024-01-18,2024-01-22,2024-01-25,Porto Alegre,Vitória,8.4,Transportadora B,Entregue,72
+DEL040,CUST007,2024-03-08,2024-03-10,2024-03-10,Cuiabá,Curitiba,9.6,Transportadora A,Entregue,0
+DEL041,CUST020,2024-03-30,2024-04-03,2024-04-03,Manaus,Salvador,3.7,Transportadora B,Entregue,0
+DEL042,CUST006,2024-01-15,2024-01-20,2024-01-20,Belo Horizonte,Recife,7.6,Transportadora B,Entregue,0
+DEL043,CUST012,2024-02-08,2024-02-12,2024-02-14,Florianópolis,Maceió,6.2,Transportadora B,Entregue,48
+DEL044,CUST003,2024-01-01,2024-01-04,2024-01-07,Fortaleza,Florianópolis,9.7,Transportadora C,Entregue,72
+DEL045,CUST016,2024-01-02,2024-01-07,2024-01-07,Curitiba,São Paulo,3.9,Transportadora A,Entregue,0
+DEL046,CUST006,2024-02-26,2024-02-28,2024-02-28,Salvador,Belo Horizonte,6.3,Transportadora C,Entregue,0
+DEL047,CUST005,2024-01-28,2024-02-02,2024-02-02,Recife,Vitória,5.5,Transportadora A,Entregue,0
+DEL048,CUST014,2024-01-01,2024-01-03,2024-01-05,Salvador,Belo Horizonte,5.8,Transportadora A,Entregue,48
+DEL049,CUST004,2024-03-14,2024-03-17,2024-03-17,Porto Alegre,Maceió,7.6,Transportadora A,Entregue,0
+DEL050,CUST017,2024-03-21,2024-03-26,2024-03-26,São Paulo,Cuiabá,1.9,Transportadora A,Entregue,0
+DEL051,CUST016,2024-02-13,2024-02-18,2024-02-18,Recife,Maceió,1.3,Transportadora C,Entregue,0
+DEL052,CUST016,2024-02-26,2024-03-01,2024-03-03,Florianópolis,Campinas,6.2,Transportadora A,Entregue,48
+DEL053,CUST010,2024-02-05,2024-02-09,2024-02-12,Rio de Janeiro,São Paulo,3.3,Transportadora C,Entregue,72
+DEL054,CUST004,2024-02-12,2024-02-14,2024-02-14,Porto Alegre,São Paulo,4.6,Transportadora B,Entregue,0
+DEL055,CUST017,2024-03-13,2024-03-17,2024-03-17,Cuiabá,Vitória,6.2,Transportadora B,Entregue,0
+DEL056,CUST009,2024-01-29,2024-02-03,2024-02-03,Vitória,Florianópolis,7.0,Transportadora C,Entregue,0
+DEL057,CUST007,2024-02-27,2024-03-03,2024-03-03,Recife,Cuiabá,1.8,Transportadora C,Entregue,0
+DEL058,CUST017,2024-01-17,2024-01-20,2024-01-20,Campinas,Belém,8.4,Transportadora A,Entregue,0
+DEL059,CUST002,2024-03-14,2024-03-16,2024-03-19,Curitiba,Porto Alegre,8.5,Transportadora C,Entregue,72
+DEL060,CUST014,2024-01-19,2024-01-24,2024-01-24,Rio de Janeiro,Maceió,5.5,Transportadora A,Entregue,0
+DEL061,CUST006,2024-01-25,2024-01-30,2024-02-02,São Paulo,Curitiba,4.9,Transportadora C,Entregue,72
+DEL062,CUST004,2024-02-08,2024-02-12,2024-02-12,Natal,Recife,8.6,Transportadora B,Entregue,0
+DEL063,CUST003,2024-01-05,2024-01-09,2024-01-11,Vitória,Maceió,7.5,Transportadora B,Entregue,48
+DEL064,CUST017,2024-03-24,2024-03-28,2024-03-28,Maceió,Vitória,1.7,Transportadora B,Entregue,0
+DEL065,CUST017,2024-01-01,2024-01-03,2024-01-06,Salvador,Manaus,7.0,Transportadora B,Entregue,72
+DEL066,CUST019,2024-02-28,2024-03-02,2024-03-04,Recife,Rio de Janeiro,3.7,Transportadora B,Entregue,48
+DEL067,CUST003,2024-01-17,2024-01-22,2024-01-22,Belém,Florianópolis,8.6,Transportadora B,Entregue,0
+DEL068,CUST006,2024-03-26,2024-03-30,2024-04-02,Cuiabá,Maceió,6.3,Transportadora B,Entregue,72
+DEL069,CUST001,2024-01-18,2024-01-23,2024-01-23,Campinas,Natal,2.6,Transportadora B,Entregue,0
+DEL070,CUST007,2024-01-13,2024-01-16,2024-01-16,Campinas,Curitiba,7.8,Transportadora C,Entregue,0
+DEL071,CUST014,2024-01-26,2024-01-31,2024-01-31,Porto Alegre,Goiânia,5.3,Transportadora B,Entregue,0
+DEL072,CUST016,2024-03-24,2024-03-28,2024-03-28,Belo Horizonte,Rio de Janeiro,6.4,Transportadora C,Entregue,0
+DEL073,CUST008,2024-01-12,2024-01-17,2024-01-17,Belo Horizonte,Goiânia,2.8,Transportadora C,Entregue,0
+DEL074,CUST005,2024-03-23,2024-03-26,2024-03-26,Goiânia,Porto Alegre,6.7,Transportadora C,Entregue,0
+DEL075,CUST003,2024-03-23,2024-03-25,2024-03-25,Goiânia,São Paulo,8.1,Transportadora C,Entregue,0
+DEL076,CUST009,2024-02-10,2024-02-15,2024-02-15,Recife,São Paulo,9.5,Transportadora C,Entregue,0
+DEL077,CUST018,2024-01-24,2024-01-27,2024-01-27,Campinas,Belém,3.7,Transportadora B,Entregue,0
+DEL078,CUST002,2024-01-20,2024-01-22,2024-01-22,Recife,Goiânia,2.1,Transportadora B,Entregue,0
+DEL079,CUST001,2024-03-21,2024-03-24,2024-03-24,Recife,Curitiba,2.6,Transportadora C,Entregue,0
+DEL080,CUST018,2024-01-31,2024-02-03,2024-02-06,Campinas,Fortaleza,5.2,Transportadora A,Entregue,72
+DEL081,CUST018,2024-03-13,2024-03-18,2024-03-18,Manaus,Maceió,2.9,Transportadora C,Entregue,0
+DEL082,CUST008,2024-01-22,2024-01-26,2024-01-27,Belém,Rio de Janeiro,9.3,Transportadora B,Entregue,24
+DEL083,CUST007,2024-03-16,2024-03-21,2024-03-21,Natal,Belo Horizonte,6.5,Transportadora B,Entregue,0
+DEL084,CUST009,2024-01-31,2024-02-04,2024-02-04,Florianópolis,Manaus,3.7,Transportadora C,Entregue,0
+DEL085,CUST003,2024-01-22,2024-01-25,2024-01-25,Florianópolis,Rio de Janeiro,6.1,Transportadora B,Entregue,0
+DEL086,CUST010,2024-02-22,2024-02-25,2024-02-27,Recife,Cuiabá,8.2,Transportadora A,Entregue,48
+DEL087,CUST008,2024-03-30,2024-04-04,2024-04-04,Manaus,Curitiba,6.6,Transportadora B,Entregue,0
+DEL088,CUST010,2024-03-09,2024-03-12,2024-03-12,Maceió,Belém,7.6,Transportadora C,Entregue,0
+DEL089,CUST004,2024-03-28,2024-04-01,2024-04-01,São Paulo,Campinas,5.6,Transportadora A,Entregue,0
+DEL090,CUST014,2024-03-03,2024-03-08,2024-03-08,Cuiabá,Rio de Janeiro,8.9,Transportadora B,Entregue,0
+DEL091,CUST013,2024-01-05,2024-01-07,2024-01-07,Natal,Florianópolis,5.4,Transportadora A,Entregue,0
+DEL092,CUST002,2024-01-03,2024-01-06,2024-01-06,Salvador,Maceió,4.9,Transportadora C,Entregue,0
+DEL093,CUST012,2024-01-06,2024-01-08,2024-01-08,Natal,Goiânia,4.8,Transportadora A,Entregue,0
+DEL094,CUST011,2024-02-12,2024-02-16,2024-02-16,Curitiba,São Paulo,9.8,Transportadora B,Entregue,0
+DEL095,CUST015,2024-02-17,2024-02-22,2024-02-22,Maceió,Natal,2.2,Transportadora C,Entregue,0
+DEL096,CUST001,2024-03-01,2024-03-06,2024-03-06,Belo Horizonte,Porto Alegre,8.1,Transportadora C,Entregue,0
+DEL097,CUST006,2024-03-10,2024-03-14,2024-03-14,São Paulo,Manaus,5.9,Transportadora C,Entregue,0
+DEL098,CUST011,2024-01-14,2024-01-17,2024-01-17,Fortaleza,Maceió,7.1,Transportadora B,Entregue,0
+DEL099,CUST001,2024-01-12,2024-01-15,2024-01-15,São Paulo,Fortaleza,4.9,Transportadora B,Entregue,0
+DEL100,CUST020,2024-03-15,2024-03-20,2024-03-20,Natal,Porto Alegre,4.4,Transportadora A,Entregue,0

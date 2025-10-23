@@ -1,0 +1,32 @@
+# ===============================================
+# Projeto Logística Inteligente — Dependências
+# ===============================================
+
+# Manipulação e análise de dados
+pandas==2.2.3
+numpy==1.26.4
+
+# Visualização de dados
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Machine Learning e Modelagem
+scikit-learn==1.5.2
+xgboost==2.1.2
+imbalanced-learn==0.12.3
+joblib==1.4.2
+
+# Explicabilidade
+shap==0.45.1
+
+# Utilidades e logs
+tqdm==4.66.5
+pyyaml==6.0.2
+
+# Exportação e compatibilidade
+openpyxl==3.1.5
+pyarrow==17.0.0
+
+# (opcional) para criação de APIs ou automação futura
+fastapi==0.115.0
+uvicorn==0.31.1
