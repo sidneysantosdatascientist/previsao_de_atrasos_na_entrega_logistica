@@ -119,12 +119,6 @@ Foram utilizados métodos de interpretabilidade com **SHAP** para identificar as
 O arquivo principal do dashboard está disponível em:
 dashboards/logistica_dashboard.pbix
 
-## Preview do Dashboard
-
-![Preview do Dashboard](https://raw.githubusercontent.com/sidneysantosdatascientist/analise_de_vendas/main/powerbi/dashboard_preview.png)
-
-![Preview do Dashboard](powerbi/dashboard_preview.png)
-
 O painel apresenta:
 - KPIs operacionais (tempo médio de entrega, taxa de atraso)  
 - Performance por transportadora e região  
